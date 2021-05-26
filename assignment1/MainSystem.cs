@@ -6,14 +6,20 @@ namespace assignment1
 {
     class MainSystem
     {
+        private SubSystem subSystem;
+       
         public MainSystem()
         {
-
+            subSystem = new SubSystem();
         }
 
         public void DoSomeMainWork()
         {
-
+            Logger logger = Logger.GetInstance();
+            logger.Log("MainSystem", "doing some main work");
+            
+            subSystem.DoSomeWork();
+            subSystem.DoSomeMoreWork();
         }
     }
 }

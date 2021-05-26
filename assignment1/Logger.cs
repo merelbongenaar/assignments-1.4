@@ -11,12 +11,13 @@ namespace assignment1
 
         private Logger()
         {
-
+            numberOfLines = 0;
         }
 
         public void Log(string system, string log)
         {
-
+            numberOfLines++;
+            Console.WriteLine($"{numberOfLines} - [{system}] {log}");
         }
 
         public static Logger GetInstance()

@@ -13,9 +13,12 @@ namespace assignment1
         public void Start()
         {
             Logger logger = Logger.GetInstance();
-
             logger.Log("main", "starting");
 
+            MainSystem mainSystem = new MainSystem();
+            mainSystem.DoSomeMainWork();
+
+            logger.Log("main", "finish");
         }
     }
 }

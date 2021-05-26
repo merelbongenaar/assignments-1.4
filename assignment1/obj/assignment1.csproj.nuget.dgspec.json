@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gebruiker\\source\\repos\\school\\designpatterns\\week5\\assignment1\\assignment1.csproj": {}
+    "C:\\Users\\merel\\OneDrive\\Bureaublad\\Nieuwe map (2)\\assignments-1.4\\assignment1\\assignment1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gebruiker\\source\\repos\\school\\designpatterns\\week5\\assignment1\\assignment1.csproj": {
+    "C:\\Users\\merel\\OneDrive\\Bureaublad\\Nieuwe map (2)\\assignments-1.4\\assignment1\\assignment1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gebruiker\\source\\repos\\school\\designpatterns\\week5\\assignment1\\assignment1.csproj",
+        "projectUniqueName": "C:\\Users\\merel\\OneDrive\\Bureaublad\\Nieuwe map (2)\\assignments-1.4\\assignment1\\assignment1.csproj",
         "projectName": "assignment1",
-        "projectPath": "C:\\Users\\Gebruiker\\source\\repos\\school\\designpatterns\\week5\\assignment1\\assignment1.csproj",
-        "packagesPath": "C:\\Users\\Gebruiker\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gebruiker\\source\\repos\\school\\designpatterns\\week5\\assignment1\\obj\\",
+        "projectPath": "C:\\Users\\merel\\OneDrive\\Bureaublad\\Nieuwe map (2)\\assignments-1.4\\assignment1\\assignment1.csproj",
+        "packagesPath": "C:\\Users\\merel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\merel\\OneDrive\\Bureaublad\\Nieuwe map (2)\\assignments-1.4\\assignment1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Gebruiker\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\merel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
